@@ -1,0 +1,4 @@
+02-retail-data-analysis/data/Sales_four_stores_oneyearperiod.csv filter=lfs diff=lfs merge=lfs -text
+02-retail-data-analysis/data/Categories.csv filter=lfs diff=lfs merge=lfs -text
+03-imdb-wrangling-regression/data/TMDB_all_movies.csv filter=lfs diff=lfs merge=lfs -text
+03-imdb-wrangling-regression/data/imdb1980.RData filter=lfs diff=lfs merge=lfs -text

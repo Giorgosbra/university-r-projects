@@ -1,0 +1,21 @@
+# R workspace files
+.RData
+.Rhistory
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary scraping backup
+movies_backup.RData
+
+# Word documents
+*.docx
